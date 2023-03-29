@@ -7,7 +7,8 @@ It modularizes the operation of deep learning, including the preprocessing, feat
 
 
 For the demonstration, we uses ICBHI 2017 dataset as the example. 
-There are five major .py in this repo.
+
+There are six major .py files in this repo.
 
   1. Config.py: It controls the required parameters in each process.
   2. Preprocessing.py: It contains the basic noise reduction functions and data segmentation.
