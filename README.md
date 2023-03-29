@@ -1,10 +1,23 @@
 # deep-learning-for-lung-sound-analysis
 
-The code is created for lung sound recognition based on the Pytorch, Librosa [1], and pyaudioanalysis [2], It modularizes the operation of preprocessing, feature extraction, dataset splitting and classifier training.
+This is code repository for the paper "Deep learning in wireless stethoscope-based lung sound analysis".
 
-For a specific example, the ICBHI 2017 dataset [3] is used as an example
+It is developed for lung sound recognition based on the Pytorch, Librosa [1], and pyaudioanalysis [2], 
+It modularizes the operation of deep learning, including the preprocessing, feature extraction, dataset splitting and classifier training.
 
-Call order: Preprocessing -> Feature extraction -> Dataset splitting -> Classifier train and test.
+
+For the demonstration, we uses ICBHI 2017 dataset as the example. 
+There are five major .py in this repo.
+
+  1. Config.py: It controls the required parameters in each process.
+  2. Preprocessing.py: It contains the basic noise reduction functions and data segmentation.
+  3. Feature extraction.py: It transforms the lung sound signal into an input suitable for the model, such as statistical features and spectrogram.
+  4. Data splitting.py: It divided the whole dataset into training and testing sets (in the subject-wise way).
+  5. Classifier_training_and_testing: It is used to train and test the model.
+  6. Model.deep learning.py: It stores the definitions of the model and the training and testing procedures.
+
+For custom models, 2-5 .py files should be executed sequentially
+
 
 [1] McFee, B., Raffel, C., Liang, D., Ellis, D. P., McVicar, M., Battenberg, E., & Nieto, O. (2015, July). librosa: Audio and music signal analysis in python. In Proceedings of the 14th python in science conference (Vol. 8, pp. 18-25).
 
