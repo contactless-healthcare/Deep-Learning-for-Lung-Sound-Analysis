@@ -18,7 +18,7 @@ There are six major .py files in this repo.
   6. Model.deep learning.py: It stores the definitions of the model and the training and testing procedures.
 
 
-To build and evaluate the lung sound analysis model, the 2-5 .py files should be performed sequentially, 
+To build a model for lung sound analysis, the 2-5 .py files should be performed sequentially, 
 and the Config.py and Model.deep learning.py is applied for custom Settings.
 
 
