@@ -6,7 +6,7 @@ It is developed for lung sound recognition based on the Pytorch, Librosa [1], an
 It modularizes the operation of deep learning, including the preprocessing, feature extraction, dataset splitting and classifier training.
 
 
-For the demonstration, we uses ICBHI 2017 dataset as the example. 
+For the demonstration, we uses ICBHI 2017 dataset [3] as the example. 
 
 There are six major .py files in this repo.
 
