@@ -19,7 +19,6 @@ There are six major .py files in this repo.
 
 
 To build and evaluate the lung sound analysis model, the 2-5 .py files should be performed sequentially, 
-
 and the Config.py and Model.deep learning.py is applied for custom Settings.
 
 
