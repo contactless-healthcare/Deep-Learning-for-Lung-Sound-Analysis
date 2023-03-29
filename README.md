@@ -17,7 +17,11 @@ There are six major .py files in this repo.
   5. Classifier_training_and_testing: It is used to train and test the model.
   6. Model.deep learning.py: It stores the definitions of the model and the training and testing procedures.
 
-For custom models, 2-5 .py files should be executed sequentially
+
+To build and evaluate the lung sound analysis model, the 2-5 .py files should be performed sequentially, 
+
+and the Config.py and Model.deep learning.py is applied for custom Settings.
+
 
 
 [1] McFee, B., Raffel, C., Liang, D., Ellis, D. P., McVicar, M., Battenberg, E., & Nieto, O. (2015, July). librosa: Audio and music signal analysis in python. In Proceedings of the 14th python in science conference (Vol. 8, pp. 18-25).
