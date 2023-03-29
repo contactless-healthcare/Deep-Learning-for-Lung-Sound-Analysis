@@ -1,4 +1,4 @@
-# deep-learning-for-lung-sound-analysis.
+# deep-learning-for-lung-sound-analysis
 
 The code is created for lung sound recognition based on the Pytorch, Librosa [1], and pyaudioanalysis [2], It modularizes the operation of preprocessing, feature extraction, dataset splitting and classifier training.
 
