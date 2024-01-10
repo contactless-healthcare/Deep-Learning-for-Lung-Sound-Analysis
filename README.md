@@ -30,3 +30,13 @@ and the Config.py and Model.deep learning.py is applied for custom Settings.
 [3] Rocha, B. M., Filos, D., Mendes, L., Serbes, G., Ulukaya, S., Kahya, Y. P., ... & De Carvalho, P. (2019). An open access database for the evaluation of respiratory sound classification algorithms. Physiological measurement, 40(3), 035001.
 
 
+  @article{huang2023deep,
+    title={Deep learning-based lung sound analysis for intelligent stethoscope},
+    author={Huang, Dong-Min and Huang, Jia and Qiao, Kun and Zhong, Nan-Shan and Lu, Hong-Zhou and Wang, Wen-Jin},
+    journal={Military Medical Research},
+    volume={10},
+    number={1},
+    pages={44},
+    year={2023},
+    publisher={Springer}
+  }
