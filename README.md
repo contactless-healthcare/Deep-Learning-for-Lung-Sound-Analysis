@@ -20,3 +20,18 @@ There are six major .py files in this repo.
 
 To build a model for lung sound analysis, the 2-5 .py files should be performed sequentially, 
 and the Config.py and Model.deep learning.py is applied for custom Settings.
+
+Please cite below paper if the code was used in your research or development.
+    
+    @article{huang2023deep,
+        title={Deep learning-based lung sound analysis for intelligent stethoscope},
+        author={Huang, Dong-Min and Huang, Jia and Qiao, Kun and Zhong, Nan-Shan and Lu, Hong-Zhou and Wang, Wen-Jin},
+        journal={Military Medical Research},
+        volume={10},
+        number={1},
+        pages={44},
+        year={2023},
+        publisher={Springer}
+    }
+
+
