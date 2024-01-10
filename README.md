@@ -20,23 +20,3 @@ There are six major .py files in this repo.
 
 To build a model for lung sound analysis, the 2-5 .py files should be performed sequentially, 
 and the Config.py and Model.deep learning.py is applied for custom Settings.
-
-
-
-[1] McFee, B., Raffel, C., Liang, D., Ellis, D. P., McVicar, M., Battenberg, E., & Nieto, O. (2015, July). librosa: Audio and music signal analysis in python. In Proceedings of the 14th python in science conference (Vol. 8, pp. 18-25).
-
-[2] Giannakopoulos, T. (2015). pyaudioanalysis: An open-source python library for audio signal analysis. PloS one, 10(12), e0144610.
-
-[3] Rocha, B. M., Filos, D., Mendes, L., Serbes, G., Ulukaya, S., Kahya, Y. P., ... & De Carvalho, P. (2019). An open access database for the evaluation of respiratory sound classification algorithms. Physiological measurement, 40(3), 035001.
-
-
-  @article{huang2023deep,
-    title={Deep learning-based lung sound analysis for intelligent stethoscope},
-    author={Huang, Dong-Min and Huang, Jia and Qiao, Kun and Zhong, Nan-Shan and Lu, Hong-Zhou and Wang, Wen-Jin},
-    journal={Military Medical Research},
-    volume={10},
-    number={1},
-    pages={44},
-    year={2023},
-    publisher={Springer}
-  }
